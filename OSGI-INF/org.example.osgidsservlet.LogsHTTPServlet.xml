@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" immediate="true" name="org.example.osgidsservlet.LogsHTTPServlet">
-   <property name="alias" type="String" value="/gamelogs"/>
+   <property name="alias" type="String" value="/hello"/>
    <service>
       <provide interface="javax.servlet.Servlet"/>
    </service>
